@@ -1,6 +1,6 @@
 class Skater {
     constructor(name, jerseyNumber) {
-        this.bane = name;
+        this.name = name;
         this.jerseyNumber = jerseyNumber;
     }
 
